@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260522193140E748ET</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260522193140JXVI4N</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto: Guardianes de nuestra tierra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Mar Martínez Becerra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto para 5.º de Primaria en el que el alumnado elaborará en grupos cooperativos un cuaderno de campo digital sobre los ecosistemas más representativos de su provincia (el litoral de Cabo de Gata, el desierto de Tabernas y la alta montaña de Sierra Nevada), investigando su biotopo, biocenosis y proponiendo soluciones para su conservación.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779466526774</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>d88e6527-4ddf-4b63-bf79-e5db41683947</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio / Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio / Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio / Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>d88e6527-4ddf-4b63-bf79-e5db41683947</odePageId>
+      <odeBlockId>block-1779463164408-lf7fljaoh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d88e6527-4ddf-4b63-bf79-e5db41683947</odePageId>
+          <odeBlockId>block-1779463164408-lf7fljaoh</odeBlockId>
+          <odeIdeviceId>idevice-1779463164406-1fta9htm4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos al proyecto "Guardianes de nuestra tierra".</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779463164406-1fta9htm4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos al proyecto \"Guardianes de nuestra tierra\".</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779461588165-4p3ffq48b</odePageId>
+  <odeParentPageId>d88e6527-4ddf-4b63-bf79-e5db41683947</odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779461588165-4p3ffq48b</odePageId>
+      <odeBlockId>block-1779462008485-i4dkaj8dz</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779461588165-4p3ffq48b</odePageId>
+          <odeBlockId>block-1779462008485-i4dkaj8dz</odeBlockId>
+          <odeIdeviceId>idevice-1779462008482-k04aszz9w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título descriptivo:</strong> “Guardianes de nuestra tierra”. El alumnado elaborará un cuaderno de campo digital e interactivo sobre los ecosistemas más representativos de su entorno natural.</p>
+<p><strong>Centro de interés:</strong> La vida que nos rodea, de la costa al desierto.</p>
+<p><strong>Nivel al que va dirigido:</strong> 5.º de Educación Primaria.</p>
+<p><strong>Temporalización:</strong> 6 sesiones.</p>
+<p><strong>Materias implicadas:</strong> Conocimiento del Medio Natural, Social y Cultural (eje central), Educación Artística (Plástica) y Lengua Castellana y Literatura. (Se trabaja transversalmente la Competencia Digital).</p>
+<p><strong>Idioma: </strong>Castellano.</p>
+<p><strong>Descripción general:</strong> El alumnado de 5.º de Primaria creará un "Cuaderno de campo interactivo" (utilizando una plataforma colaborativa como Genially, Canva o Google Sites) trabajando en equipos cooperativos. Su misión será investigar y documentar diferentes ecosistemas de la provincia (por ejemplo, el ecosistema litoral de Cabo de Gata, el desierto de Tabernas y la alta montaña de Sierra Nevada).</p>
+<p>En este espacio virtual, los equipos deberán subir fotografías y describir las características del biotopo y la biocenosis de cada lugar. Además, integrarán creaciones propias: esquemas de redes tróficas diseñados por ellos, fotografías de dioramas o dibujos de especies autóctonas elaborados en el área de Plástica, y pequeños audios o textos redactados en Lengua Castellana donde expliquen los principales problemas medioambientales que sufren estos ecosistemas y propongan soluciones para su conservación.</p>
+<p><strong>Justificación de la elección:</strong> He escogido este tema porque, siguiendo la línea de la rutina de pensamiento, permite dar un paso más en el desarrollo de la competencia digital del alumnado. Dado que el estudio de los ecosistemas ofrece el escenario perfecto para implementar el trabajo colaborativo digital. Al tener que construir un único producto final por equipos, aprenderán a coordinarse, editar documentos simultáneamente, repartir roles y tomar decisiones conjuntas, todo ello mientras se fomenta la conciencia ecológica y el arraigo por su patrimonio natural.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779462008482-k04aszz9w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título descriptivo:</strong> “Guardianes de nuestra tierra”. El alumnado elaborará un cuaderno de campo digital e interactivo sobre los ecosistemas más representativos de su entorno natural.</p>\n<p><strong>Centro de interés:</strong> La vida que nos rodea, de la costa al desierto.</p>\n<p><strong>Nivel al que va dirigido:</strong> 5.º de Educación Primaria.</p>\n<p><strong>Temporalización:</strong> 6 sesiones.</p>\n<p><strong>Materias implicadas:</strong> Conocimiento del Medio Natural, Social y Cultural (eje central), Educación Artística (Plástica) y Lengua Castellana y Literatura. (Se trabaja transversalmente la Competencia Digital).</p>\n<p><strong>Idioma: </strong>Castellano.</p>\n<p><strong>Descripción general:</strong> El alumnado de 5.º de Primaria creará un \"Cuaderno de campo interactivo\" (utilizando una plataforma colaborativa como Genially, Canva o Google Sites) trabajando en equipos cooperativos. Su misión será investigar y documentar diferentes ecosistemas de la provincia (por ejemplo, el ecosistema litoral de Cabo de Gata, el desierto de Tabernas y la alta montaña de Sierra Nevada).</p>\n<p>En este espacio virtual, los equipos deberán subir fotografías y describir las características del biotopo y la biocenosis de cada lugar. Además, integrarán creaciones propias: esquemas de redes tróficas diseñados por ellos, fotografías de dioramas o dibujos de especies autóctonas elaborados en el área de Plástica, y pequeños audios o textos redactados en Lengua Castellana donde expliquen los principales problemas medioambientales que sufren estos ecosistemas y propongan soluciones para su conservación.</p>\n<p><strong>Justificación de la elección:</strong> He escogido este tema porque, siguiendo la línea de la rutina de pensamiento, permite dar un paso más en el desarrollo de la competencia digital del alumnado. Dado que el estudio de los ecosistemas ofrece el escenario perfecto para implementar el trabajo colaborativo digital. Al tener que construir un único producto final por equipos, aprenderán a coordinarse, editar documentos simultáneamente, repartir roles y tomar decisiones conjuntas, todo ello mientras se fomenta la conciencia ecológica y el arraigo por su patrimonio natural.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779461667489-mcytlprv5</odePageId>
+  <odeParentPageId>d88e6527-4ddf-4b63-bf79-e5db41683947</odeParentPageId>
+  <pageName>Información sobre protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779461667489-mcytlprv5</odePageId>
+      <odeBlockId>block-1779462525711-wn3dykv2i</odeBlockId>
+      <blockName>Licencias y seguridad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779461667489-mcytlprv5</odePageId>
+          <odeBlockId>block-1779462525711-wn3dykv2i</odeBlockId>
+          <odeIdeviceId>idevice-1779462525708-1rxr2pnky</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1pRZysx5g99nP4MDiSGP9n4Tl_jgvPE5G/view?usp=sharing" target="_blank" rel="noopener" title="">Haz clic aquí para ver el documento.</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779462525708-1rxr2pnky","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1pRZysx5g99nP4MDiSGP9n4Tl_jgvPE5G/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Haz clic aquí para ver el documento.</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779461691164-s2i86ejks</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779461691164-s2i86ejks</odePageId>
+      <odeBlockId>block-1779463265963-iw7z0jko1</odeBlockId>
+      <blockName>Tareas y criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779461691164-s2i86ejks</odePageId>
+          <odeBlockId>block-1779463265963-iw7z0jko1</odeBlockId>
+          <odeIdeviceId>idevice-1779463265960-bq0z2r1f7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 18.7902%; text-align: center;"><strong>TAREA</strong></td>
+<td style="width: 18.7902%; text-align: center;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 20.2059%; text-align: center;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 23.2947%; text-align: center;"><strong>TEMPORALIZACIÓN</strong></td>
+<td style="width: 18.7902%; text-align: center;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>
+</tr>
+<tr>
+<td style="width: 18.7902%;">
+<p><strong>Sesión 1: <em>¡Exploramos nuestro entorno!</em></strong></p>
+<p>Investigación sobre el ecosistema asignado (litoral, desierto o montaña).</p>
+<p></p>
+</td>
+<td style="width: 18.7902%;">
+<p>CMN.2.2.a. Buscar, seleccionar y comenzar a utilizar mecanismos para contrastar información, de diferentes fuentes seguras y fiables, iniciándose en el uso de los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>
+</td>
+<td style="width: 20.2059%;">Grupos cooperativos (4 personas)</td>
+<td style="width: 23.2947%;"> 60 min<br /></td>
+<td style="width: 18.7902%;">Buscadores seguros (Kiddle), Google Earth.</td>
+</tr>
+<tr>
+<td style="width: 18.7902%;">
+<p><strong>Sesión 2: <em>Especies y Redes Tróficas.</em></strong></p>
+<p>Identificación de fauna/flora y diseño de redes tróficas del ecosistema.<br /></p>
+</td>
+<td style="width: 18.7902%;">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad.</td>
+<td style="width: 20.2059%;">Grupos cooperativos (4 personas)</td>
+<td style="width: 23.2947%;"> 60 min<br /></td>
+<td style="width: 18.7902%;">Google Drawings o Canva web.</td>
+</tr>
+<tr>
+<td style="width: 18.7902%;">
+<p><strong>Sesión 3: <em>Alerta Medioambiental.</em></strong></p>
+<p>Redacción y grabación de audios sobre problemas y soluciones ecológicas.</p>
+<p></p>
+</td>
+<td style="width: 18.7902%;">LCL.3.1.a. Producir textos orales y multimodales de manera progresivamente autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.</td>
+<td style="width: 20.2059%;">Parejas</td>
+<td style="width: 23.2947%;"> 60 min<br /></td>
+<td style="width: 18.7902%;">Vocaroo.com (grabadora online sencilla) o la extensión de audio de Google Slides.</td>
+</tr>
+<tr>
+<td style="width: 18.7902%;">
+<p><strong>Sesión 4: <em>Construyendo el Cuaderno. </em></strong></p>
+<p>Diseño de la estructura del cuaderno interactivo y reparto de roles.</p>
+<p></p>
+</td>
+<td style="width: 18.7902%;">CMN.1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo.</td>
+<td style="width: 20.2059%;">Grupos cooperativos (4 personas)</td>
+<td style="width: 23.2947%;"> 60 min<br /></td>
+<td style="width: 18.7902%;">Canva for Education o Google Sites.</td>
+</tr>
+<tr>
+<td style="width: 18.7902%;">
+<p><strong>Sesión 5: <em>Volcando los datos. </em></strong></p>
+<p>Integración de materiales multimedia (fotos, audios y textos) en la plataforma.</p>
+<p></p>
+</td>
+<td style="width: 18.7902%;">CMN.3.3.a. Diseñar un producto final que dé solución a un problema de diseño, mediante estrategias cooperativas, como prototipos o soluciones digitales, utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.</td>
+<td style="width: 20.2059%;">Grupos cooperativos (4 personas)</td>
+<td style="width: 23.2947%;"> 60 min<br /></td>
+<td style="width: 18.7902%;">Google Drive (para compartir archivos y organizar la carpeta del equipo).</td>
+</tr>
+<tr>
+<td style="width: 18.7902%;">
+<p><strong>Sesión 6: <em>Somos Guardianes.</em></strong></p>
+<p>Presentación pública del cuaderno digital y reflexión sobre el proceso.</p>
+<p></p>
+</td>
+<td style="width: 18.7902%;">LCL.3.2.a. Participar en interacciones orales espontáneas o regladas, respetando las normas de la cortesía lingüística, iniciando de manera acompañada el desarrollo de estrategias sencillas de escucha activa y de cooperación conversacional.</td>
+<td style="width: 20.2059%;">Gran grupo (Exposición)</td>
+<td style="width: 23.2947%;">60 min</td>
+<td style="width: 18.7902%;">Pizarra Digital Interactiva (PDI), conectada al Chromebook del docente.</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779463265960-bq0z2r1f7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 18.7902%; text-align: center;\"><strong>TAREA</strong></td>\n<td style=\"width: 18.7902%; text-align: center;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 20.2059%; text-align: center;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 23.2947%; text-align: center;\"><strong>TEMPORALIZACIÓN</strong></td>\n<td style=\"width: 18.7902%; text-align: center;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>\n</tr>\n<tr>\n<td style=\"width: 18.7902%;\">\n<p><strong>Sesión 1: <em>¡Exploramos nuestro entorno!</em></strong></p>\n<p>Investigación sobre el ecosistema asignado (litoral, desierto o montaña).</p>\n<p></p>\n</td>\n<td style=\"width: 18.7902%;\">\n<p>CMN.2.2.a. Buscar, seleccionar y comenzar a utilizar mecanismos para contrastar información, de diferentes fuentes seguras y fiables, iniciándose en el uso de los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural.</p>\n</td>\n<td style=\"width: 20.2059%;\">Grupos cooperativos (4 personas)</td>\n<td style=\"width: 23.2947%;\"> 60 min<br /></td>\n<td style=\"width: 18.7902%;\">Buscadores seguros (Kiddle), Google Earth.</td>\n</tr>\n<tr>\n<td style=\"width: 18.7902%;\">\n<p><strong>Sesión 2: <em>Especies y Redes Tróficas.</em></strong></p>\n<p>Identificación de fauna/flora y diseño de redes tróficas del ecosistema.<br /></p>\n</td>\n<td style=\"width: 18.7902%;\">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad.</td>\n<td style=\"width: 20.2059%;\">Grupos cooperativos (4 personas)</td>\n<td style=\"width: 23.2947%;\"> 60 min<br /></td>\n<td style=\"width: 18.7902%;\">Google Drawings o Canva web.</td>\n</tr>\n<tr>\n<td style=\"width: 18.7902%;\">\n<p><strong>Sesión 3: <em>Alerta Medioambiental.</em></strong></p>\n<p>Redacción y grabación de audios sobre problemas y soluciones ecológicas.</p>\n<p></p>\n</td>\n<td style=\"width: 18.7902%;\">LCL.3.1.a. Producir textos orales y multimodales de manera progresivamente autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.</td>\n<td style=\"width: 20.2059%;\">Parejas</td>\n<td style=\"width: 23.2947%;\"> 60 min<br /></td>\n<td style=\"width: 18.7902%;\">Vocaroo.com (grabadora online sencilla) o la extensión de audio de Google Slides.</td>\n</tr>\n<tr>\n<td style=\"width: 18.7902%;\">\n<p><strong>Sesión 4: <em>Construyendo el Cuaderno. </em></strong></p>\n<p>Diseño de la estructura del cuaderno interactivo y reparto de roles.</p>\n<p></p>\n</td>\n<td style=\"width: 18.7902%;\">CMN.1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo.</td>\n<td style=\"width: 20.2059%;\">Grupos cooperativos (4 personas)</td>\n<td style=\"width: 23.2947%;\"> 60 min<br /></td>\n<td style=\"width: 18.7902%;\">Canva for Education o Google Sites.</td>\n</tr>\n<tr>\n<td style=\"width: 18.7902%;\">\n<p><strong>Sesión 5: <em>Volcando los datos. </em></strong></p>\n<p>Integración de materiales multimedia (fotos, audios y textos) en la plataforma.</p>\n<p></p>\n</td>\n<td style=\"width: 18.7902%;\">CMN.3.3.a. Diseñar un producto final que dé solución a un problema de diseño, mediante estrategias cooperativas, como prototipos o soluciones digitales, utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.</td>\n<td style=\"width: 20.2059%;\">Grupos cooperativos (4 personas)</td>\n<td style=\"width: 23.2947%;\"> 60 min<br /></td>\n<td style=\"width: 18.7902%;\">Google Drive (para compartir archivos y organizar la carpeta del equipo).</td>\n</tr>\n<tr>\n<td style=\"width: 18.7902%;\">\n<p><strong>Sesión 6: <em>Somos Guardianes.</em></strong></p>\n<p>Presentación pública del cuaderno digital y reflexión sobre el proceso.</p>\n<p></p>\n</td>\n<td style=\"width: 18.7902%;\">LCL.3.2.a. Participar en interacciones orales espontáneas o regladas, respetando las normas de la cortesía lingüística, iniciando de manera acompañada el desarrollo de estrategias sencillas de escucha activa y de cooperación conversacional.</td>\n<td style=\"width: 20.2059%;\">Gran grupo (Exposición)</td>\n<td style=\"width: 23.2947%;\">60 min</td>\n<td style=\"width: 18.7902%;\">Pizarra Digital Interactiva (PDI), conectada al Chromebook del docente.</td>\n</tr>\n</tbody>\n</table>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779461715898-cwnmfwleu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779461715898-cwnmfwleu</odePageId>
+      <odeBlockId>block-1779463990851-0yjz919kc</odeBlockId>
+      <blockName>Herramienta para el producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779461715898-cwnmfwleu</odePageId>
+          <odeBlockId>block-1779463990851-0yjz919kc</odeBlockId>
+          <odeIdeviceId>idevice-1779463990847-l8knhswxl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Tras analizar las necesidades del proyecto, la herramienta digital seleccionada para la realización del producto final de la SdA del curso de 5.º de Primaria (cuaderno de campo interactivo) es Canva en su versión educativa. El objetivo principal de utilizar esta plataforma es ofrecer al alumnado un entorno de trabajo compartido donde puedan integrar, de manera organizada, todas las evidencias de aprendizaje generadas durante su investigación sobre el biotopo y la biocenosis de los ecosistemas de la provincia de Almería.</p>
+<p style="text-align: justify;">La elección de esta herramienta se justifica, en primer lugar, por su enorme versatilidad, ya que permite combinar de forma sencilla textos redactados en el área de Lengua Castellana, esquemas de redes tróficas, fotografías de sus propios dioramas de Plástica y archivos de audio con propuestas de conservación ambiental. Teniendo en cuenta la edad del alumnado y su nivel de competencia digital, Canva resulta ideal por su interfaz intuitiva basada en arrastrar elementos, lo que evita la frustración técnica y fomenta la creatividad desde el primer momento. </p>
+<p style="text-align: justify;">Además, la disponibilidad de la plataforma en la nube garantiza que los grupos cooperativos puedan trabajar de forma simultánea y es compatible con Chromebooks que el centro dispone en un carrito de ordenadores. Al tratarse de un alumnado de 5.º, esta herramienta les permite dar un salto cualitativo en la presentación de sus trabajos, pasando de soportes estáticos a un producto final profesional que pueden compartir con la comunidad educativa a través de un simple enlace o un código QR, otorgando así un sentido real a su misión de proteger el patrimonio natural de Almería.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779463990847-l8knhswxl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Tras analizar las necesidades del proyecto, la herramienta digital seleccionada para la realización del producto final de la SdA del curso de 5.º de Primaria (cuaderno de campo interactivo) es Canva en su versión educativa. El objetivo principal de utilizar esta plataforma es ofrecer al alumnado un entorno de trabajo compartido donde puedan integrar, de manera organizada, todas las evidencias de aprendizaje generadas durante su investigación sobre el biotopo y la biocenosis de los ecosistemas de la provincia de Almería.</p>\n<p style=\"text-align: justify;\">La elección de esta herramienta se justifica, en primer lugar, por su enorme versatilidad, ya que permite combinar de forma sencilla textos redactados en el área de Lengua Castellana, esquemas de redes tróficas, fotografías de sus propios dioramas de Plástica y archivos de audio con propuestas de conservación ambiental. Teniendo en cuenta la edad del alumnado y su nivel de competencia digital, Canva resulta ideal por su interfaz intuitiva basada en arrastrar elementos, lo que evita la frustración técnica y fomenta la creatividad desde el primer momento. </p>\n<p style=\"text-align: justify;\">Además, la disponibilidad de la plataforma en la nube garantiza que los grupos cooperativos puedan trabajar de forma simultánea y es compatible con Chromebooks que el centro dispone en un carrito de ordenadores. Al tratarse de un alumnado de 5.º, esta herramienta les permite dar un salto cualitativo en la presentación de sus trabajos, pasando de soportes estáticos a un producto final profesional que pueden compartir con la comunidad educativa a través de un simple enlace o un código QR, otorgando así un sentido real a su misión de proteger el patrimonio natural de Almería.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779464164388-gfo6kdje9</odePageId>
+  <odeParentPageId>page-1779461715898-cwnmfwleu</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779464164388-gfo6kdje9</odePageId>
+      <odeBlockId>block-1779464276261-gtqpopzfk</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779464164388-gfo6kdje9</odePageId>
+          <odeBlockId>block-1779464276261-gtqpopzfk</odeBlockId>
+          <odeIdeviceId>idevice-1779464276258-81rxk35nu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHKIJ6WVv4/PNqpYXBdDHXqSAgTv4uqMw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHKIJ6WVv4/PNqpYXBdDHXqSAgTv4uqMw/view?utm_content=DAHKIJ6WVv4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Línea temporal</a> de María del Mar</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779464276258-81rxk35nu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHKIJ6WVv4/PNqpYXBdDHXqSAgTv4uqMw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHKIJ6WVv4/PNqpYXBdDHXqSAgTv4uqMw/view?utm_content=DAHKIJ6WVv4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Línea temporal</a> de María del Mar</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779461730393-2cifjuq19</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos y herramientas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779466821674-o53xnpvad</odePageId>
+  <odeParentPageId>page-1779461730393-2cifjuq19</odeParentPageId>
+  <pageName>Padlet (alumnado)</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet (alumnado)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Padlet (alumnado)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779466821674-o53xnpvad</odePageId>
+      <odeBlockId>block-1779466858375-padi1ijyj</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779466821674-o53xnpvad</odePageId>
+          <odeBlockId>block-1779466858375-padi1ijyj</odeBlockId>
+          <odeIdeviceId>idevice-1779466858373-g8oqak4me</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/emaygz25m6jkk86y" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779466858373-g8oqak4me","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/emaygz25m6jkk86y\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779466812493-lsg8s5oxt</odePageId>
+  <odeParentPageId>page-1779461730393-2cifjuq19</odeParentPageId>
+  <pageName>Symbaloo (docentes)</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo (docentes)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Symbaloo (docentes)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779466812493-lsg8s5oxt</odePageId>
+      <odeBlockId>block-1779466884444-jyi14hqo7</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779466812493-lsg8s5oxt</odePageId>
+          <odeBlockId>block-1779466884444-jyi14hqo7</odeBlockId>
+          <odeIdeviceId>idevice-1779466884443-dca3lj58j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Panel de control con herramientas imprescindibles de gestión, diseño y gamificación que se pueden utilizar a diario en el aula (véase en el siguiente enlace). </p>
+<p><a href="https://www.symbaloo.com/shared/AAAAARegXY4AA41-5EarFg==">https://www.symbaloo.com/shared/AAAAARegXY4AA41-5EarFg==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779466884443-dca3lj58j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Panel de control con herramientas imprescindibles de gestión, diseño y gamificación que se pueden utilizar a diario en el aula (véase en el siguiente enlace). </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAARegXY4AA41-5EarFg==\">https://www.symbaloo.com/shared/AAAAARegXY4AA41-5EarFg==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779464840865-8db0j3hby</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779464840865-8db0j3hby</odePageId>
+      <odeBlockId>block-1779465011833-i89gfa4mw</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779464840865-8db0j3hby</odePageId>
+          <odeBlockId>block-1779465011833-i89gfa4mw</odeBlockId>
+          <odeIdeviceId>idevice-1779465011830-zuzcdn2u8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el desarrollo competencial de mi alumnado en el proyecto "Guardianes de nuestra tierra", he seleccionado dos instrumentos que permiten tanto una evaluación formativa durante el proceso como una sumativa al final del mismo. Ambos están diseñados para facilitar la recogida de datos y su posterior análisis.</p>
+<table border="1" style="width: 100%; height: 222px;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 24.9679%; text-align: center; height: 57px;"><strong>TAREA</strong></td>
+<td style="width: 24.9679%; text-align: center; height: 57px;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 24.9679%; text-align: center; height: 57px;"><strong>INSTRUMENTO DE EVALUACIÓN</strong></td>
+<td style="width: 24.9679%; text-align: center; height: 57px;"><strong>¿CÓMO Y CUÁNDO VOY A USARLA?</strong></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9679%; height: 33px;">Redes Tróficas del Ecosistema</td>
+<td style="width: 24.9679%; height: 33px;">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad.</td>
+<td style="width: 24.9679%; height: 33px;">Rúbrica de Google Classroom</td>
+<td style="width: 24.9679%; height: 33px;">Al finalizar la Sesión 2. El alumnado adjuntará su esquema al porfolio digital y yo lo evaluaré mediante la rúbrica integrada, ofreciendo feedback inmediato.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9679%; height: 33px;">Grabación de audio: Alerta Medioambiental</td>
+<td style="width: 24.9679%; height: 33px;">LCL.3.1.a. Producir textos orales y multimodales de manera progresivamente autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.</td>
+<td style="width: 24.9679%; height: 33px;">Lista de cotejo (digital)</td>
+<td style="width: 24.9679%; height: 33px;">Durante la Sesión 3. Usaré la lista mientras escucho las grabaciones, verificando la claridad, el mensaje ecológico y la corrección lingüística.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9679%; height: 33px;">Maquetación del Cuaderno Digital</td>
+<td style="width: 24.9679%; height: 33px;">CMN.1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo. </td>
+<td style="width: 24.9679%; height: 33px;">Diana de Evaluación (Autoevaluación)</td>
+<td style="width: 24.9679%; height: 33px;">Al final de la Sesión 4. El alumnado rellena la diana para medir su rol y uso de TIC, permitiéndome realizar el seguimiento del proceso.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9679%; height: 33px;">Cálculo de sostenibilidad del cuaderno</td>
+<td style="width: 24.9679%; height: 33px;">CMN.3.3.a. Diseñar un producto final que dé solución a un problema de diseño, mediante estrategias cooperativas, como prototipos o soluciones digitales, utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.</td>
+<td style="width: 24.9679%; height: 33px;">Escala de valoración (Observación)</td>
+<td style="width: 24.9679%; height: 33px;">Durante la Sesión 5. La utilizaré mediante observación directa mientras trabajan en los Chromebooks para valorar la eficacia en el uso de los recursos.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 24.9679%; height: 33px;">Presentación del Cuaderno de Campo</td>
+<td style="width: 24.9679%; height: 33px;">LCL.3.2.a. Participar en interacciones orales espontáneas o regladas, respetando las normas de la cortesía lingüística, iniciando de manera acompañada el desarrollo de estrategias sencillas de escucha activa y de cooperación conversacional.</td>
+<td style="width: 24.9679%; height: 33px;">Lista de cotejo (Coevaluación) y Rúbrica de evaluación del cuaderno digital</td>
+<td style="width: 24.9679%; height: 33px;">
+<p>Al final de la Sesión 6. Los equipos usarán la lista para evaluarse entre sí tras la exposición en la PDI, mientras yo aplico la rúbrica sumativa del producto final.</p>
+<p><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>Rúbrica de evaluación del cuaderno digital </strong></p>
+<p>Este instrumento se utilizará en la Sesión 6 para evaluar el producto final de forma sumativa.</p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.974%;">Criterio</td>
+<td style="width: 19.974%;">Destaca (4)</td>
+<td style="width: 19.974%;">Conseguido (3)</td>
+<td style="width: 19.974%;">En proceso (2)</td>
+<td style="width: 19.9751%;">Iniciado (1)</td>
+</tr>
+<tr>
+<td style="width: 19.974%;">Contenido Científico</td>
+<td style="width: 19.974%;">Explica detalladamente la relación biotopo-biocenosis.</td>
+<td style="width: 19.974%;">Describe correctamente los elementos del ecosistema.</td>
+<td style="width: 19.974%;">Descripción superficial.</td>
+<td style="width: 19.9751%;">Errores conceptuales graves.</td>
+</tr>
+<tr>
+<td style="width: 19.974%;">Competencia Digital</td>
+<td style="width: 19.974%;">Integra formatos multimedia con fluidez y diseño propio.</td>
+<td style="width: 19.974%;">Uso correcto de herramientas, aunque simple.</td>
+<td style="width: 19.974%;">Dificultades técnicas en edición o carga.</td>
+<td style="width: 19.9751%;">No logra integrar las herramientas.</td>
+</tr>
+<tr>
+<td style="width: 19.974%;">Trabajo cooperativo</td>
+<td style="width: 19.974%;">Coordinación ejemplar y reparto de roles efectivo.</td>
+<td style="width: 19.974%;">Colaboración buena, aunque con desajustes.</td>
+<td style="width: 19.974%;">Trabajo desigual entre miembros.</td>
+<td style="width: 19.9751%;">No hay trabajo cooperativo.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>Análisis y tratamiento de variables</strong></p>
+<ul>
+<li style="text-align: justify;">Obtención de datos: Se implementará directamente en la herramienta de evaluación de Google Classroom.</li>
+<li style="text-align: justify;">Tratamiento: Los resultados se volcarán automáticamente a una hoja de cálculo (Google Sheets).</li>
+<li style="text-align: justify;">Análisis de datos: Si un equipo muestra una puntuación alta en "Contenido" pero baja en "Competencia Digital", el sistema me permite identificar una variable de "brecha de habilidad técnica". Esta información es crucial para no penalizar la nota del área de Conocimiento del Medio, sino para diseñar un refuerzo específico en la siguiente sesión (por ejemplo, una sesión de tutoría entre iguales o "alumnos expertos").<br /></li>
+</ul>
+<p style="text-align: justify;"><strong>Diana de autoevaluación (véase en el enlace adjunto)</strong><strong></strong></p>
+<p style="text-align: justify;"><strong title=""><a href="https://docs.google.com/drawings/d/1vm4mLa5qe3D-JGcnJLKzw4zNxtm64u8OyypB8B2mN8M/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/drawings/d/1vm4mLa5qe3D-JGcnJLKzw4zNxtm64u8OyypB8B2mN8M/edit?usp=sharing</a></strong></p>
+<p style="text-align: justify;">Este instrumento se implementa mediante una diana digital (creada en Google Drawings), donde cada alumno/a marca su nivel de desempeño del 1 al 4 en cada uno de los cuatro ejes propuestos. Para ello, se les pide que usen la herramienta Insertar &gt; Forma &gt; Formas &gt; Óvalo para crear un pequeño círculo de color rojo o azul. Solo tendrán que arrastrar ese puntito al lugar de la diana donde sientan que se encuentran en cada eje.</p>
+<p style="text-align: justify;">Ejes de Evaluación:<br />Cumplimiento de mi rol: ¿He realizado las tareas asignadas en mi equipo? <br />Ayuda y escucha al compañero: ¿He apoyado a mis compañeros y escuchado sus opiniones? <br />Uso responsable y seguro de los Chromebooks: ¿He utilizado la tecnología de forma adecuada? <br />Aportación de ideas creativas: ¿He contribuido activamente con propuestas originales al equipo? </p>
+<p style="text-align: justify;">Escala de Desempeño:<br />4 (Periferia): Destaca.<br />3: Conseguido.<br />2: En Proceso.<br />1 (Centro): Iniciado.<br /></p>
+<p style="text-align: justify;"><strong>Gestión de datos y triangulación </strong></p>
+<p style="text-align: justify;">Para que la evaluación sea lo más justa posible, voy a realizar una triangulación de los datos: compararé lo que el propio alumno dice de su trabajo con la visión de sus compañeros (coevaluación) y con mi propia rúbrica de observación directa.</p>
+<p style="text-align: justify;">Este sistema me sirve también para gestionar posibles conflictos. Si veo una discrepancia importante, por ejemplo si el alumno se pone un "Destaca" pero el grupo le puntúa bajo en "ayuda al compañero", utilizaré esa información como punto de partida para una entrevista mediadora con él.</p>
+<p style="text-align: justify;">Al final, el objetivo de estos datos va más allá de poner una nota. Me sirven para detectar si hay dinámicas de grupo que no están funcionando bien antes de que termine el proyecto, lo que me permite actuar a tiempo y, si es necesario, hacer cambios en los grupos para que todo fluya mejor.</p>
+<p style="text-align: justify;"><br />El diseño de estos instrumentos de evaluación se apoya en:</p>
+<p style="text-align: justify;">Automatización: Al centralizar los datos en hojas de cálculo, se genera un histórico del progreso de cada alumno, eliminando el error humano en el cálculo manual y almacenando la evidencia digital del proceso.</p>
+<p style="text-align: justify;">Validación de procedimientos: La fiabilidad de los datos se garantiza mediante la repetición de la diana en diferentes sesiones, lo que nos da una serie temporal que muestra si el alumnado está mejorando su competencia social y digital o si se estanca.<br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779465011830-zuzcdn2u8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el desarrollo competencial de mi alumnado en el proyecto \"Guardianes de nuestra tierra\", he seleccionado dos instrumentos que permiten tanto una evaluación formativa durante el proceso como una sumativa al final del mismo. Ambos están diseñados para facilitar la recogida de datos y su posterior análisis.</p>\n<table border=\"1\" style=\"width: 100%; height: 222px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 24.9679%; text-align: center; height: 57px;\"><strong>TAREA</strong></td>\n<td style=\"width: 24.9679%; text-align: center; height: 57px;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 24.9679%; text-align: center; height: 57px;\"><strong>INSTRUMENTO DE EVALUACIÓN</strong></td>\n<td style=\"width: 24.9679%; text-align: center; height: 57px;\"><strong>¿CÓMO Y CUÁNDO VOY A USARLA?</strong></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9679%; height: 33px;\">Redes Tróficas del Ecosistema</td>\n<td style=\"width: 24.9679%; height: 33px;\">CMN.5.1.a. Identificar y describir las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad.</td>\n<td style=\"width: 24.9679%; height: 33px;\">Rúbrica de Google Classroom</td>\n<td style=\"width: 24.9679%; height: 33px;\">Al finalizar la Sesión 2. El alumnado adjuntará su esquema al porfolio digital y yo lo evaluaré mediante la rúbrica integrada, ofreciendo feedback inmediato.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9679%; height: 33px;\">Grabación de audio: Alerta Medioambiental</td>\n<td style=\"width: 24.9679%; height: 33px;\">LCL.3.1.a. Producir textos orales y multimodales de manera progresivamente autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.</td>\n<td style=\"width: 24.9679%; height: 33px;\">Lista de cotejo (digital)</td>\n<td style=\"width: 24.9679%; height: 33px;\">Durante la Sesión 3. Usaré la lista mientras escucho las grabaciones, verificando la claridad, el mensaje ecológico y la corrección lingüística.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9679%; height: 33px;\">Maquetación del Cuaderno Digital</td>\n<td style=\"width: 24.9679%; height: 33px;\">CMN.1.1.a. Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y adecuada, buscando información, comunicándose y trabajando de forma individual y en equipo, comenzando a realizar actividades en red, creando contenidos digitales sencillos, interpretando y organizando la información y aumentando la productividad y eficiencia en el propio trabajo. </td>\n<td style=\"width: 24.9679%; height: 33px;\">Diana de Evaluación (Autoevaluación)</td>\n<td style=\"width: 24.9679%; height: 33px;\">Al final de la Sesión 4. El alumnado rellena la diana para medir su rol y uso de TIC, permitiéndome realizar el seguimiento del proceso.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9679%; height: 33px;\">Cálculo de sostenibilidad del cuaderno</td>\n<td style=\"width: 24.9679%; height: 33px;\">CMN.3.3.a. Diseñar un producto final que dé solución a un problema de diseño, mediante estrategias cooperativas, como prototipos o soluciones digitales, utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.</td>\n<td style=\"width: 24.9679%; height: 33px;\">Escala de valoración (Observación)</td>\n<td style=\"width: 24.9679%; height: 33px;\">Durante la Sesión 5. La utilizaré mediante observación directa mientras trabajan en los Chromebooks para valorar la eficacia en el uso de los recursos.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 24.9679%; height: 33px;\">Presentación del Cuaderno de Campo</td>\n<td style=\"width: 24.9679%; height: 33px;\">LCL.3.2.a. Participar en interacciones orales espontáneas o regladas, respetando las normas de la cortesía lingüística, iniciando de manera acompañada el desarrollo de estrategias sencillas de escucha activa y de cooperación conversacional.</td>\n<td style=\"width: 24.9679%; height: 33px;\">Lista de cotejo (Coevaluación) y Rúbrica de evaluación del cuaderno digital</td>\n<td style=\"width: 24.9679%; height: 33px;\">\n<p>Al final de la Sesión 6. Los equipos usarán la lista para evaluarse entre sí tras la exposición en la PDI, mientras yo aplico la rúbrica sumativa del producto final.</p>\n<p><br /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>Rúbrica de evaluación del cuaderno digital </strong></p>\n<p>Este instrumento se utilizará en la Sesión 6 para evaluar el producto final de forma sumativa.</p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.974%;\">Criterio</td>\n<td style=\"width: 19.974%;\">Destaca (4)</td>\n<td style=\"width: 19.974%;\">Conseguido (3)</td>\n<td style=\"width: 19.974%;\">En proceso (2)</td>\n<td style=\"width: 19.9751%;\">Iniciado (1)</td>\n</tr>\n<tr>\n<td style=\"width: 19.974%;\">Contenido Científico</td>\n<td style=\"width: 19.974%;\">Explica detalladamente la relación biotopo-biocenosis.</td>\n<td style=\"width: 19.974%;\">Describe correctamente los elementos del ecosistema.</td>\n<td style=\"width: 19.974%;\">Descripción superficial.</td>\n<td style=\"width: 19.9751%;\">Errores conceptuales graves.</td>\n</tr>\n<tr>\n<td style=\"width: 19.974%;\">Competencia Digital</td>\n<td style=\"width: 19.974%;\">Integra formatos multimedia con fluidez y diseño propio.</td>\n<td style=\"width: 19.974%;\">Uso correcto de herramientas, aunque simple.</td>\n<td style=\"width: 19.974%;\">Dificultades técnicas en edición o carga.</td>\n<td style=\"width: 19.9751%;\">No logra integrar las herramientas.</td>\n</tr>\n<tr>\n<td style=\"width: 19.974%;\">Trabajo cooperativo</td>\n<td style=\"width: 19.974%;\">Coordinación ejemplar y reparto de roles efectivo.</td>\n<td style=\"width: 19.974%;\">Colaboración buena, aunque con desajustes.</td>\n<td style=\"width: 19.974%;\">Trabajo desigual entre miembros.</td>\n<td style=\"width: 19.9751%;\">No hay trabajo cooperativo.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>Análisis y tratamiento de variables</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Obtención de datos: Se implementará directamente en la herramienta de evaluación de Google Classroom.</li>\n<li style=\"text-align: justify;\">Tratamiento: Los resultados se volcarán automáticamente a una hoja de cálculo (Google Sheets).</li>\n<li style=\"text-align: justify;\">Análisis de datos: Si un equipo muestra una puntuación alta en \"Contenido\" pero baja en \"Competencia Digital\", el sistema me permite identificar una variable de \"brecha de habilidad técnica\". Esta información es crucial para no penalizar la nota del área de Conocimiento del Medio, sino para diseñar un refuerzo específico en la siguiente sesión (por ejemplo, una sesión de tutoría entre iguales o \"alumnos expertos\").<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Diana de autoevaluación (véase en el enlace adjunto)</strong><strong></strong></p>\n<p style=\"text-align: justify;\"><strong title=\"\"><a href=\"https://docs.google.com/drawings/d/1vm4mLa5qe3D-JGcnJLKzw4zNxtm64u8OyypB8B2mN8M/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">https://docs.google.com/drawings/d/1vm4mLa5qe3D-JGcnJLKzw4zNxtm64u8OyypB8B2mN8M/edit?usp=sharing</a></strong></p>\n<p style=\"text-align: justify;\">Este instrumento se implementa mediante una diana digital (creada en Google Drawings), donde cada alumno/a marca su nivel de desempeño del 1 al 4 en cada uno de los cuatro ejes propuestos. Para ello, se les pide que usen la herramienta Insertar &gt; Forma &gt; Formas &gt; Óvalo para crear un pequeño círculo de color rojo o azul. Solo tendrán que arrastrar ese puntito al lugar de la diana donde sientan que se encuentran en cada eje.</p>\n<p style=\"text-align: justify;\">Ejes de Evaluación:<br />Cumplimiento de mi rol: ¿He realizado las tareas asignadas en mi equipo? <br />Ayuda y escucha al compañero: ¿He apoyado a mis compañeros y escuchado sus opiniones? <br />Uso responsable y seguro de los Chromebooks: ¿He utilizado la tecnología de forma adecuada? <br />Aportación de ideas creativas: ¿He contribuido activamente con propuestas originales al equipo? </p>\n<p style=\"text-align: justify;\">Escala de Desempeño:<br />4 (Periferia): Destaca.<br />3: Conseguido.<br />2: En Proceso.<br />1 (Centro): Iniciado.<br /></p>\n<p style=\"text-align: justify;\"><strong>Gestión de datos y triangulación </strong></p>\n<p style=\"text-align: justify;\">Para que la evaluación sea lo más justa posible, voy a realizar una triangulación de los datos: compararé lo que el propio alumno dice de su trabajo con la visión de sus compañeros (coevaluación) y con mi propia rúbrica de observación directa.</p>\n<p style=\"text-align: justify;\">Este sistema me sirve también para gestionar posibles conflictos. Si veo una discrepancia importante, por ejemplo si el alumno se pone un \"Destaca\" pero el grupo le puntúa bajo en \"ayuda al compañero\", utilizaré esa información como punto de partida para una entrevista mediadora con él.</p>\n<p style=\"text-align: justify;\">Al final, el objetivo de estos datos va más allá de poner una nota. Me sirven para detectar si hay dinámicas de grupo que no están funcionando bien antes de que termine el proyecto, lo que me permite actuar a tiempo y, si es necesario, hacer cambios en los grupos para que todo fluya mejor.</p>\n<p style=\"text-align: justify;\"><br />El diseño de estos instrumentos de evaluación se apoya en:</p>\n<p style=\"text-align: justify;\">Automatización: Al centralizar los datos en hojas de cálculo, se genera un histórico del progreso de cada alumno, eliminando el error humano en el cálculo manual y almacenando la evidencia digital del proceso.</p>\n<p style=\"text-align: justify;\">Validación de procedimientos: La fiabilidad de los datos se garantiza mediante la repetición de la diana en diferentes sesiones, lo que nos da una serie temporal que muestra si el alumnado está mejorando su competencia social y digital o si se estanca.<br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779461739884-gsqd9p0l0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779461739884-gsqd9p0l0</odePageId>
+      <odeBlockId>block-1779466165332-k99oik4qu</odeBlockId>
+      <blockName>Autoría y Licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779461739884-gsqd9p0l0</odePageId>
+          <odeBlockId>block-1779466165332-k99oik4qu</odeBlockId>
+          <odeIdeviceId>idevice-1779466165328-a3fdruws6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Créditos del proyecto</strong></p>
+<p><strong>Título del recurso: </strong><em>Guardianes de nuestra tierra</em>.</p>
+<p><strong>Autor/a: </strong>María del Mar Martínez Becerra</p>
+<p><strong>Destinatarios: </strong>Alumnado de 5.º de Educación Primaria.</p>
+<p><strong>Descripción: </strong>Recursos educativo abierto (REA), diseñado para el trabajo cooperativo y la investigación de los ecosistemas (Cabo de Gata, Desierto de Tabernas y Sierra Nevada).</p>
+<p><strong>Licencia de uso: </strong>Este recurso se publica bajo una licencia <em>Creative Commons Reconocimiento-Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</em>. Esto significa que puedes usarlo, compartirlo y modificarlo libremente, siempre que cites la autoría original y compartas tus versiones con esta misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779466165328-a3fdruws6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Créditos del proyecto</strong></p>\n<p><strong>Título del recurso: </strong><em>Guardianes de nuestra tierra</em>.</p>\n<p><strong>Autor/a: </strong>María del Mar Martínez Becerra</p>\n<p><strong>Destinatarios: </strong>Alumnado de 5.º de Educación Primaria.</p>\n<p><strong>Descripción: </strong>Recursos educativo abierto (REA), diseñado para el trabajo cooperativo y la investigación de los ecosistemas (Cabo de Gata, Desierto de Tabernas y Sierra Nevada).</p>\n<p><strong>Licencia de uso: </strong>Este recurso se publica bajo una licencia <em>Creative Commons Reconocimiento-Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</em>. Esto significa que puedes usarlo, compartirlo y modificarlo libremente, siempre que cites la autoría original y compartas tus versiones con esta misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779461739884-gsqd9p0l0</odePageId>
+      <odeBlockId>block-1779468482094-gk4vmr3h4</odeBlockId>
+      <blockName>Descargar el archivo editable (.elpx)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779461739884-gsqd9p0l0</odePageId>
+          <odeBlockId>block-1779468482094-gk4vmr3h4</odeBlockId>
+          <odeIdeviceId>idevice-1779468482092-ao5zp5zlp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Proyecto: Guardianes de nuestra tierra</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto para 5.º de Primaria en el que el alumnado elaborará en grupos cooperativos un cuaderno de campo digital sobre los ecosistemas más representativos de su provincia (el litoral de Cabo de Gata, el desierto de Tabernas y la alta montaña de Sierra Nevada), investigando su biotopo, biocenosis y proponiendo soluciones para su conservación.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María del Mar Martínez Becerra</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">proyecto-guardianes-de-nuestra-tierra.elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
